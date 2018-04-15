@@ -1,0 +1,2 @@
+# WIG-Minesweeper
+Wherigo Geocache
